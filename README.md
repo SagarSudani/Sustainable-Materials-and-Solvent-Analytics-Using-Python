@@ -20,3 +20,6 @@ Pandas
 Requests
 Matplotlib
 PubChem AP
+
+<img width="565" height="455" alt="xlog vs molecular weight" src="https://github.com/user-attachments/assets/a59bdeca-0f7d-4ab6-b999-48dd669d46f0" />
+
