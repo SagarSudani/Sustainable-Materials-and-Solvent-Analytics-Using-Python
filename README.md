@@ -20,6 +20,11 @@ Pandas
 Requests
 Matplotlib
 PubChem AP
+<img width="480" height="223" alt="list of compounds" src="https://github.com/user-attachments/assets/8f861e69-2813-49bd-b4c8-7ed41c69dcd2" />
+
 
 <img width="565" height="455" alt="xlog vs molecular weight" src="https://github.com/user-attachments/assets/a59bdeca-0f7d-4ab6-b999-48dd669d46f0" />
+
+<img width="587" height="455" alt="suistainability comparision" src="https://github.com/user-attachments/assets/9d11a758-9a85-4918-85da-d3218e4aa4ca" />
+
 
