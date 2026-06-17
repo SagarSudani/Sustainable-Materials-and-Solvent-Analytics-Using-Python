@@ -1,0 +1,37 @@
+1. Introduction
+Sustainable solvent selection is a key challenge in modern chemical processes, particularly in reducing environmental impact and improving safety. This project applies a data-driven approach to evaluate the sustainability of commonly used organic solvents using molecular descriptors. The aim is to demonstrate how computational analysis can support green chemistry principles in industrial applications.
+________________________________________
+2. Objective
+To evaluate and compare the sustainability of chemical solvents by analyzing molecular properties and deriving key environmental and chemical indicators.
+________________________________________
+3. Methodology
+Data for selected solvents were obtained through API access from PubChem. The analysis is based on proxy indicators derived from molecular descriptors and is intended for preliminary screening rather than regulatory assessment. The following molecular descriptors were analyzed:
+•	Molecular weight 
+•	XLogP (hydrophobicity indicator) 
+From these descriptors, additional chemical and environmental properties were derived:
+•	Polarity (inverse relation to XLogP) 
+•	Solubility (based on polarity trends) 
+•	Environmental persistence (correlated with hydrophobicity) 
+•	Toxicity implications (approximated through logP values) 
+A comparative case study was conducted between benzene (a traditional solvent) and ethanol (a greener alternative).
+
+Figure 1. Comparison of solvent properties based on XLogP and molecular weight.
+4. Results
+The analysis shows clear differences between conventional and green solvents:
+•	Ethanol exhibits: 
+o	Low XLogP → high polarity 
+o	Good solubility in water 
+o	Reduced environmental persistence 
+o	Bio-based origin 
+•	Benzene exhibits: 
+o	High XLogP → low polarity 
+o	Poor solubility 
+o	Higher environmental persistence 
+o	Known toxicity concerns 
+These results indicate that ethanol is a more sustainable solvent compared to benzene.
+_______________________________________
+5. Discussion
+The use of molecular descriptors enables rapid screening of solvent properties without experimental testing. Although simplified, this approach reflects early-stage decision-making processes used in chemical research and process design.
+________________________________________
+6. Conclusion
+This project demonstrates that data-driven analysis can effectively support sustainable solvent selection. The results highlight the importance of replacing hazardous solvents with environmentally friendly alternatives and illustrate the role of computational tools in green chemistry.
