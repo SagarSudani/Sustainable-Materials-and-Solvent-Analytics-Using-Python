@@ -1,6 +1,4 @@
 # Sustainable-Materials-and-Solvent-Analytics-Using-Python
-
-Sustainable Materials and Solvent Analytics Using Python
 Overview
 
 This repository contains two data-driven projects focused on sustainability assessment in chemistry and materials science. Using Python, scientific databases, and data analytics techniques, the projects demonstrate how computational methods can support sustainable decision-making in chemical processes and advanced materials development.
